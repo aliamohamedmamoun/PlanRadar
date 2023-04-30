@@ -2,6 +2,14 @@
 
 PlanRadar is a SaaS application for construction documentation & defect management. Our customers create lots of tickets every day. These tickets are usually created to report a defect and assigned to a project member to fix it. Ticket attributes are: Subject, Priority, Status and Description Based on this information we need to implement a page to list tickets. The application is mainly a single responsive page that displays static tickets and you can create and update tickets.
 
+# Screenshots
+![Screen Shot 2023-04-30 at 10 31 48 PM](https://user-images.githubusercontent.com/27437881/235372839-6467870e-9eb5-4def-92d9-d09b69feb559.png)
+
+![Screen Shot 2023-04-30 at 10 31 58 PM](https://user-images.githubusercontent.com/27437881/235372853-a4132b19-c2e6-44fb-8684-4661f19b6314.png)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
