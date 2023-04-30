@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# PlanRadar Tickets' List Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+PlanRadar is a SaaS application for construction documentation & defect management. Our customers create lots of tickets every day. These tickets are usually created to report a defect and assigned to a project member to fix it. Ticket attributes are: Subject, Priority, Status and Description Based on this information we need to implement a page to list tickets. The application is mainly a single responsive page that displays static tickets and you can create and update tickets.
 
 ## Available Scripts
 
