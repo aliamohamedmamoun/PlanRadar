@@ -1,0 +1,35 @@
+.statusCell{
+    width: 150px;
+}
+.priorityCell{
+    width: 150px;
+}
+.idCell{
+    width: 100px;
+}
+.editCell {
+    width: 50px;
+}
+.editBtn{
+    background-color:#1064C8;
+    color:white;
+    outline: none;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    padding:8px;
+    border-radius: 4px;
+    cursor: pointer; 
+}
+.editBtn:hover {
+    background-color: #053364;
+}
+
+@media only screen and (max-width: 992px){
+    .statusCell{
+        width: 100px;
+    }
+    .priorityCell{
+        width: 100px;
+    }
+}
